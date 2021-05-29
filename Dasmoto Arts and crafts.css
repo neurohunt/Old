@@ -1,0 +1,27 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight:bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("frames.webp");
+}
+
+div h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight:bold;
+    color:white;
+}
+
+div #Brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+div #Frames h2 {
+    background-color: lightcoral;
+}
+
+div #Paint h2 {
+    background-color: skyblue;
+}
