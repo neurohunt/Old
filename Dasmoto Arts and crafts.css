@@ -14,14 +14,14 @@ div h2{
     color:white;
 }
 
-div #Brushes h2 {
+#Brushes h2 {
     background-color: mediumspringgreen;
 }
 
-div #Frames h2 {
+#Frames h2 {
     background-color: lightcoral;
 }
 
-div #Paint h2 {
+#Paint h2 {
     background-color: skyblue;
 }
